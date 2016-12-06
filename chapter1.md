@@ -110,15 +110,16 @@ As constantes Java são criadas marcando-se variáveis como static e final. Elas
 
 Exemplo: READ_ONLY
 
-Comentários
+### Comentários
 Todos os arquivos devem começar com um comentário estilo “linguagem C“ que relaciona o programador (s), a data, os direitos autorais e também uma breve descrição da finalidade do programa. Por exemplo:
 
+``` java
 /**
  * Classe Description
  *
- * @author
+ * @author <Name>
  */
-
+``` 
 OBS: Para os comentários em métodos e blocos de código usar a referência da Sun:
 
 http://www.oracle.com/technetwork/java/javase/documentation/index-137868.html#format
